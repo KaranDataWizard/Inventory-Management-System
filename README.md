@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/2b9c7110-5757-406d-a9b4-5bca9e769909)
+
 **INVENTORY MANAGEMENT SYSTEM IN MYSQL**
 
 ### **Introduction:**
