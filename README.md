@@ -1,14 +1,16 @@
-![image](https://github.com/user-attachments/assets/2b9c7110-5757-406d-a9b4-5bca9e769909)
+<div align="center">
 
 **INVENTORY MANAGEMENT SYSTEM IN MYSQL**
 
-### **Introduction:**
+> ### **Introduction:**
 In today's competitive market, businesses must continuously monitor product performance, customer behavior, and financial metrics to ensure sustained growth and profitability. This analysis leverages MySQL queries to extract meaningful insights from sales, inventory, and customer data. By addressing critical business questions, stakeholders can make data-driven decisions to optimize operations, enhance customer satisfaction, and increase profitability.
 
-### **Problem Statement:**
+> ### **Problem Statement:**
 Businesses often struggle with inventory management, identifying top-selling products, understanding customer purchasing patterns, and optimizing their supply chain. Without a structured data analysis framework, decision-making is often based on intuition rather than concrete data insights. This analysis seeks to solve these challenges by providing actionable insights into product sales, profitability, customer behavior, and supply chain efficiency.
 
-### **Solution:**
+> ### **Solution:**
+</div>
+
 The following SQL-based analysis provides insights into various aspects of the business, including:
 1. **Inventory Management** – Identifying low-stock products that need restocking.
 2. **Sales Performance** – Recognizing top-selling products and high-revenue categories.
@@ -16,7 +18,11 @@ The following SQL-based analysis provides insights into various aspects of the b
 4. **Customer Insights** – Understanding top customers by purchase volume.
 5. **Supply Chain Optimization** – Assessing warehouse performance and order fulfillment efficiency.
 
-### **Key Objectives and SQL-Based Insights:**
+<div align="center">
+
+>   ### **Key Objectives and SQL-Based Insights:**
+
+</div>
 
 #### **1. Inventory Management**
 - **Query:** Identify products with the lowest stock levels that need restocking.
@@ -70,7 +76,12 @@ The following SQL-based analysis provides insights into various aspects of the b
 - **Query:** Identify products with the highest return rates.
 - **Business Impact:** Helps in quality control and customer satisfaction.
 
-### **Recommendations:**
+<div align="center">
+
+> ### **Recommendations:**
+
+</div>
+
 Based on the analysis, businesses can implement the following strategies:
 1. **Inventory Optimization:** Ensure timely restocking of low-stock products.
 2. **Sales Enhancement:** Focus on marketing and upselling top-selling products.
@@ -80,7 +91,12 @@ Based on the analysis, businesses can implement the following strategies:
 6. **Quality Control:** Address high return rate products to improve customer satisfaction.
 7. **Regional Expansion:** Invest in high-sales regions for growth opportunities.
 
+<div align="center">
 
-### **Conclusion:**
+> ### **Conclusion:**
+
+</div>
+
 By leveraging MySQL queries for in-depth sales and product analysis, businesses can make informed decisions that enhance revenue, improve customer satisfaction, and optimize operational efficiency. This structured approach to data-driven decision-making ensures continuous improvement and long-term success.
 
+</div>
